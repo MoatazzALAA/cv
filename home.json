@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "lastUpdated": "2026-07-13"
+  },
+  "summary": "Dedicated customer service professional with hands-on experience enhancing client satisfaction through effective product education, timely assistance, and proactive conflict resolution. Personable and enthusiastic, with a genuine passion for working with people, complemented by strong multitasking and time-management skills.",
+  "education": [
+    {
+      "id": "law-degree-cairo-university",
+      "degree": "Bachelor's Degree in Law",
+      "institution": "Cairo University",
+      "year": "2018 - 2022"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "proficiency": "native"
+    },
+    {
+      "name": "English",
+      "proficiency": "fluent"
+    }
+  ],
+  "navLinks": [
+    {
+      "id": "nav-experience",
+      "label": "Experience",
+      "target": "experience"
+    },
+    {
+      "id": "nav-skills",
+      "label": "Skills",
+      "target": "skills"
+    },
+    {
+      "id": "nav-certifications",
+      "label": "Certifications",
+      "target": "certifications"
+    }
+  ]
+}
+

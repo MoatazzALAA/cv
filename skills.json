@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "lastUpdated": "2026-07-14"
+  },
+  "categories": [
+    {
+      "id": "operations",
+      "name": "Operations & Ticketing",
+      "skills": [
+        { "id": "amadeus-gds", "label": "Amadeus GDS", "weightTier": "primary", "relatedExperienceIds": ["almatar"] },
+        { "id": "sabre-gds", "label": "Sabre GDS", "weightTier": "primary", "relatedExperienceIds": ["almatar"] },
+        { "id": "booking-reservations", "label": "Booking & Reservations", "weightTier": "primary", "relatedExperienceIds": ["almatar", "nile-air"] },
+        { "id": "ticketing-reissues-refunds", "label": "Ticketing, Reissues & Refunds", "weightTier": "primary", "relatedExperienceIds": ["almatar", "nile-air"] },
+        { "id": "schedule-change-handling", "label": "Schedule Change & Cancellation Handling", "weightTier": "secondary", "relatedExperienceIds": ["almatar", "nile-air"] }
+      ]
+    },
+    {
+      "id": "legal",
+      "name": "Legal & Compliance",
+      "skills": [
+        { "id": "contract-drafting", "label": "Contract & Agreement Drafting", "weightTier": "secondary", "relatedExperienceIds": ["moamen-okely-law-office"] },
+        { "id": "legal-research", "label": "Legal Research", "weightTier": "secondary", "relatedExperienceIds": ["moamen-okely-law-office"] },
+        { "id": "regulatory-compliance", "label": "Regulatory Compliance", "weightTier": "secondary", "relatedExperienceIds": ["moamen-okely-law-office"] },
+        { "id": "corporate-documentation", "label": "Corporate Documentation & Registrations", "weightTier": "secondary", "relatedExperienceIds": ["moamen-okely-law-office"] }
+      ]
+    },
+    {
+      "id": "administrative",
+      "name": "Administrative & Project Management",
+      "skills": [
+        { "id": "administrative-management", "label": "Administrative Management", "weightTier": "secondary", "relatedExperienceIds": ["traffic-it-department"] },
+        { "id": "project-management", "label": "Project Management", "weightTier": "secondary" },
+        { "id": "budget-financial-documents", "label": "Budget & Financial Document Handling", "weightTier": "secondary" },
+        { "id": "staff-coordination", "label": "Staff Coordination & Reporting", "weightTier": "secondary", "relatedExperienceIds": ["traffic-it-department"] }
+      ]
+    },
+    {
+      "id": "marketing-sales",
+      "name": "Marketing & Sales",
+      "skills": [
+        { "id": "digital-marketing", "label": "Digital Marketing", "weightTier": "secondary", "relatedExperienceIds": ["dr-mohamed-osman-pharmacy"] },
+        { "id": "sales", "label": "Sales", "weightTier": "secondary", "relatedExperienceIds": ["dr-mohamed-osman-pharmacy"] },
+        { "id": "business-development", "label": "Business Development & Partnerships", "weightTier": "secondary", "relatedExperienceIds": ["dr-mohamed-osman-pharmacy"] }
+      ]
+    },
+    {
+      "id": "soft-skills",
+      "name": "Communication & Soft Skills",
+      "skills": [
+        { "id": "complaints-handling", "label": "Complaints Handling", "weightTier": "primary" },
+        { "id": "communication-interpersonal", "label": "Communication & Interpersonal Skills", "weightTier": "primary" },
+        { "id": "organizational-time-management", "label": "Organizational & Time Management", "weightTier": "secondary" },
+        { "id": "multitasking-detail-oriented", "label": "Multi-tasking & Detail-Oriented", "weightTier": "secondary" },
+        { "id": "team-collaboration", "label": "Team Collaboration", "weightTier": "secondary" }
+      ]
+    }
+  ]
+}

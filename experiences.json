@@ -1,0 +1,94 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "lastUpdated": "2026-07-14"
+  },
+  "companies": [
+    {
+      "id": "almatar",
+      "companyName": "Almatar Travel Agency",
+      "roleTitle": "Flight Fulfillment Executive \u2013 Customer Relations Division",
+      "dateRange": {
+        "start": "2025",
+        "end": "present"
+      },
+      "directoryContext": "GDS queue management & post-booking ticketing operations",
+      "narrative": "Manage queues across GDS systems (Amadeus and Sabre) within the Customer Relations Division to action schedule changes and updates. Handle post-booking flight operations including confirmations, changes, and cancellations, and resolve customer issues related to ticketing errors, revalidations, and refunds. Coordinate directly with airlines on flight reschedules, special requests, and service issues, ensuring accuracy and completeness of flight tickets. Collaborate with sales and support teams to maintain seamless travel experiences for clients, and maintain records of service outcomes for quality control.",
+      "systemsUsed": [
+        "Amadeus GDS",
+        "Sabre GDS"
+      ],
+      "metrics": [],
+      "design_config": {
+        "industry": "aviation",
+        "background_image_path": "/assets/images/companies/almatar-bg.jpg",
+        "watermark_svg_path": "/assets/svg/almatar-mark.svg",
+        "overlay_opacity": 0.05,
+        "brand_accent_color": "#0F6E4F",
+        "watermark_placement": "center",
+        "max_metrics_allowed": 4
+      }
+    },
+    {
+      "id": "nile-air",
+      "companyName": "Nile Air",
+      "roleTitle": "Back Office Assistant & Ticketing Agent",
+      "dateRange": {
+        "start": "2024",
+        "end": "2025"
+      },
+      "directoryContext": "Booking arrangements, ticketing, reissues, and refunds",
+      "narrative": "Made booking arrangements for passengers by phone and online within the Customer Experience Department, and handled ticket issuance, reissues, and refunds based on a range of customer requirements. Worked to diligently resolve booking and scheduling issues while managing internal and external communications. Ensured all booking procedures followed industry standards, and checked schedule-change and cancellation queues as part of daily operations.",
+      "systemsUsed": [],
+      "metrics": [],
+      "design_config": {
+        "industry": "aviation",
+        "background_image_path": "/assets/images/companies/nile-air-bg.jpg",
+        "watermark_svg_path": "/assets/svg/nile-air-mark.svg",
+        "overlay_opacity": 0.05,
+        "brand_accent_color": "#E4002B",
+        "watermark_placement": "bottom-right",
+        "max_metrics_allowed": 4
+      }
+    },
+    {
+      "id": "moamen-okely-law-office",
+      "companyName": "Moamen Okely's Law Office",
+      "roleTitle": "Lawyer",
+      "dateRange": {
+        "start": "2023",
+        "end": "2024"
+      },
+      "directoryContext": "Contract drafting & corporate compliance",
+      "narrative": "Prepared contracts, agreements, legal notices, and other corporate documents, and conducted research on relevant laws, regulations, and judicial precedents. Supported higher-ranking lawyers in legal cases and court proceedings, while also handling company registrations, drafting corporate policies, and ensuring compliance with applicable laws.",
+      "systemsUsed": [],
+      "metrics": []
+    },
+    {
+      "id": "traffic-it-department",
+      "companyName": "General Department Of Traffic Information Technology",
+      "roleTitle": "Administrative Office Assistant",
+      "dateRange": {
+        "start": "2022",
+        "end": "2023"
+      },
+      "directoryContext": "Information management & performance reporting",
+      "narrative": "Liaised with staff to manage information, develop systems, and compile reports using data to identify trends and inform action. Coordinated staff development and addressed underperformance issues through consistent, fair, and objective decision-making. Provided continuous quality review and helped drive procedures and process improvements for the department, while handling confidential information and documents with appropriate discretion and organization.",
+      "systemsUsed": [],
+      "metrics": []
+    },
+    {
+      "id": "dr-mohamed-osman-pharmacy",
+      "companyName": "Dr. Mohamed Osman Pharmacy",
+      "roleTitle": "Sales & Marketing Manager",
+      "dateRange": {
+        "start": "2019",
+        "end": "2022"
+      },
+      "directoryContext": "Cosmetics marketing & distributor partnerships",
+      "narrative": "Managed marketing and sales of cosmetics products, developing more targeted advertising strategies to reach relevant audiences. Identified new strategic business opportunities and initiated partnerships with distributors and panel builders to support business growth.",
+      "systemsUsed": [],
+      "metrics": []
+    }
+  ]
+}

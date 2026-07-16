@@ -1,0 +1,29 @@
+{
+  "fullName": "Moataz Alaa",
+  "title": "Flight Fulfillment & Operations Specialist",
+  "avatar": {
+    "src": "/assets/images/avatar.jpg",
+    "alt": "Moataz Alaa"
+  },
+  "contactLinks": [
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "Moatazalaa303@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "type": "phone",
+      "label": "Phone",
+      "value": "+20 114 346 7909",
+      "icon": "phone"
+    },
+    {
+      "type": "linkedin",
+      "label": "LinkedIn",
+      "value": "PLACEHOLDER_ADD_YOUR_LINKEDIN_URL",
+      "icon": "linkedin"
+    }
+  ]
+}
+

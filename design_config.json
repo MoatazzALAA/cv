@@ -1,0 +1,14 @@
+{
+  "theme": {
+    "background": "#0B0B0C",
+    "surface": "#121214",
+    "textPrimary": "#F5F5F7",
+    "textSecondary": "#8E8E93",
+    "accentDefault": "#2F80ED"
+  },
+  "transitions": {
+    "globalEasing": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "globalDurationMs": 400,
+    "illuminationDurationMs": 550
+  }
+}

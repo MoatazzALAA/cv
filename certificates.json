@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "metadata": {
+    "lastUpdated": "2026-07-14"
+  },
+  "certifications": [
+    {
+      "id": "amadeus-system-certification",
+      "year": null,
+      "title": "Basic and Advanced Amadeus System Certification",
+      "issuer": "Amadeus",
+      "verifyUrl": null,
+      "relatedExperienceIds": [
+        "almatar"
+      ]
+    },
+    {
+      "id": "sabre-system-certification",
+      "year": null,
+      "title": "Basic and Advanced Sabre System Certification",
+      "issuer": "Sabre",
+      "verifyUrl": null,
+      "relatedExperienceIds": [
+        "almatar"
+      ]
+    },
+    {
+      "id": "generative-ai-for-business",
+      "year": null,
+      "title": "Generative AI for Business Workshop",
+      "issuer": null,
+      "verifyUrl": null
+    },
+    {
+      "id": "decision-making-troubleshooting",
+      "year": null,
+      "title": "Decision Making & Troubleshooting Workshop",
+      "issuer": null,
+      "verifyUrl": null
+    },
+    {
+      "id": "advanced-digital-marketing",
+      "year": null,
+      "title": "Advanced Digital Marketing Certification",
+      "issuer": null,
+      "verifyUrl": null,
+      "relatedExperienceIds": [
+        "dr-mohamed-osman-pharmacy"
+      ]
+    },
+    {
+      "id": "executive-secretary-business-administration",
+      "year": null,
+      "title": "Executive Secretary and Business Administration Certification",
+      "issuer": null,
+      "verifyUrl": null
+    }
+  ]
+}

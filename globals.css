@@ -1,0 +1,17 @@
+/* styles/globals.css
+ *
+ * Tailwind's three base directives. Nothing else lives here — all actual
+ * design tokens (colors, spacing, typography choices) are already owned by
+ * design_config.json + PortfolioShell's CSS custom property injection, not
+ * by hardcoded rules in this file.
+ */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
